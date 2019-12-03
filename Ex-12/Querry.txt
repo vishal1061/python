@@ -1,0 +1,5 @@
+Read about pydoc command
+- For Linux use pydoc input
+- For Windows use python3.x -m input
+
+Similarly we can find out for open, file, os and sys

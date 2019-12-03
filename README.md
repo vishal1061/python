@@ -1,3 +1,3 @@
 # python
 Learn Python Hard way exercises
-Day1 Completed till Exercise 5
+Day1 Completed till Exercise 12
